@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "outlier"
+version = "0.1.0"
+description = "An investigation into the parcel ownership in Detroit looking at investpeculators, the tax auction, evictions, etc."
+authors = ["mikevatd3 <mike@datadrivendetroit.org>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+psycopg2 = "^2.9.9"
+SQLAlchemy = "^2.0.30"
+requests = "^2.32.3"
+tomli = "^2.0.1"
+Flask = "^3.0.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^8.2.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

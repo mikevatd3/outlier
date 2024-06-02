@@ -1,0 +1,8 @@
+[app]
+name="documentation"
+
+[db]
+user="michael"
+host="localhost"
+port="5432"
+name="documentation"

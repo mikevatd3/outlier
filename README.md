@@ -1,0 +1,4 @@
+# Outlier investor analysis
+
+## Goals
+
