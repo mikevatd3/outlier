@@ -5,3 +5,5 @@ config.toml
 config.yaml
 config.json
 
+temp_parcels.gzip
+cumulative_distribution_addresses_20240531.ods
